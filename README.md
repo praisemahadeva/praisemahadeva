@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on all new technologies
 - 📫 How to reach me praisemahadeva@outlook.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Don't know nothing about coding
+- ⚡ Fun fact: "Coding is Fun"
 
 <!---
 praisemahadeva/praisemahadeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
