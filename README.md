@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning new technologies
 - 💞️ I’m looking to collaborate on all new technologies
 - 📫 How to reach me praisemahadeva@outlook.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Don't know nothing about coding
 
 <!---
